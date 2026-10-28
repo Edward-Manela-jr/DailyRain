@@ -1,0 +1,2 @@
+
+"""RainfallDigitizer GUI package."""
